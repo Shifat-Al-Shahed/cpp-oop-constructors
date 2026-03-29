@@ -1,3 +1,4 @@
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 class phone
@@ -37,3 +38,4 @@ signed main()
     mob1.print_details(), mob2.print_details(), mob3.print_details();
     return 0;
 }
+```
